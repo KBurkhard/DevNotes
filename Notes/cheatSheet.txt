@@ -306,7 +306,7 @@ Burden PED upload:
 Burden add new dataset:
 -----------------------
 - copy cvcf.gz, cvcf.gz.tbi and ped file to directory
-- in dig-analisys-engine code
+- in dig-analysis-engine code
   - add new mdv version to src/main/resources/config.properties
   - add new phenotype to Phenotypes.java file
   
